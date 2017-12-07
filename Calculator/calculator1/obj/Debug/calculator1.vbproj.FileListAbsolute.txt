@@ -1,0 +1,12 @@
+C:\Users\Elliot\Desktop\VB\calculator1\bin\Debug\calculator1.exe
+C:\Users\Elliot\Desktop\VB\calculator1\bin\Debug\calculator1.pdb
+C:\Users\Elliot\Desktop\VB\calculator1\bin\Debug\calculator1.xml
+C:\Users\Elliot\Desktop\VB\calculator1\obj\Debug\calculator.Resources.resources
+C:\Users\Elliot\Desktop\VB\calculator1\obj\Debug\calculator1.vbproj.GenerateResource.Cache
+C:\Users\Elliot\Desktop\VB\calculator1\obj\Debug\calculator1.exe
+C:\Users\Elliot\Desktop\VB\calculator1\obj\Debug\calculator1.xml
+C:\Users\Elliot\Desktop\VB\calculator1\obj\Debug\calculator1.pdb
+C:\Users\Elliot\Desktop\VB\calculator1\obj\Debug\calculator.frmCalculator.resources
+C:\Users\Elliot\Desktop\Calculator\calculator1\obj\Debug\calculator1.exe
+C:\Users\Elliot\Desktop\Calculator\calculator1\obj\Debug\calculator1.xml
+C:\Users\Elliot\Desktop\Calculator\calculator1\obj\Debug\calculator1.pdb
